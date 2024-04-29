@@ -5,7 +5,7 @@ __pycache__/
 venv/
 myfolder/
 env/
-
+artifacts/
 
 # C extensions
 *.so
@@ -124,6 +124,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.artifacts
 .env
 .venv
 env/
